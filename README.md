@@ -1,4 +1,4 @@
-# 🎈 [Modunuzun Adı]
+# 🎈 Baldis Turkish
 
 > **Baldi's Basics In Education and Learning** için geliştirilmiş özel bir modification (mod).
 
